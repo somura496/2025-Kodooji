@@ -10,7 +10,7 @@ AIモデルには前提としてルールブックとclassifier.py, dobotClassif
   出力: classifier_point.py
 
 3. 「青色LED検出で開始」という条件 - https://chatgpt.com/share/68366cb9-b5b4-800d-b34a-0657848e2042
-  出力: classifier_blueLED.py
-        classifier_with_LED.py
+  出力: classifier_with_LED.py
+        classifier_blueLED.py
 
 4
