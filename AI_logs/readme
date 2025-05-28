@@ -1,0 +1,14 @@
+ここに入れたやつはいじらないようにします
+無理筋ではありますがgptの共有リンク貼って行きます
+出力ファイルもそれぞれに用意します
+
+1. keras導入のやつ(一応) - https://chatgpt.com/share/683668da-25d4-800d-b2cc-37e2008de2ec
+
+2. 「菓子を仕分ける」という条件のみ - https://chatgpt.com/share/6836683f-f984-800d-a7a3-a46072cc319e
+  出力: classifier_point.py
+
+3. 「青色LED検出で開始」という条件 - https://chatgpt.com/share/68366cb9-b5b4-800d-b34a-0657848e2042
+  出力: classifier_blueLED.py
+        classifier_with_LED.py
+
+4
