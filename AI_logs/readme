@@ -14,4 +14,9 @@ AIモデルには前提としてルールブックとclassifier.py, dobotClassif
   出力: classifier_with_LED.py
         classifier_blueLED.py
 
-4
+4. 入力なしでの自動処理 - https://chatgpt.com/share/683f960c-0c78-800d-8d3c-543256bb09df
+  出力: classifier_modified_Jun04.py
+
+5. 上記4個の出力コードを結合
+  出力: classifier_alter_May28.py
+       classifier_alter.Jun04.py
