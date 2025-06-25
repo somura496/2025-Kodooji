@@ -17,6 +17,16 @@ AIモデルには前提としてルールブックとclassifier.py, dobotClassif
 4. 入力なしでの自動処理 - https://chatgpt.com/share/683f960c-0c78-800d-8d3c-543256bb09df
   出力: classifier_modified_Jun04.py
 
-5. 上記4個の出力コードを結合
+5. 上記4個の出力コードを結合 - https://chatgpt.com/share/685b51ca-90ec-800d-9075-c80088ebff74
   出力: classifier_alter_May28.py
-       classifier_alter.Jun04.py
+        classifier_alter.Jun04.py
+
+6. カメラ中心に近いやつから処理するように - https://chatgpt.com/share/68524c5e-cd24-800d-aa00-643e44807902
+  出力: classifier_alter_Jun18.py
+        classifier_alter_beta_Jun18.py
+
+7. カメラウィンドウが重たいので対処 - https://chatgpt.com/share/685b51bb-f170-800d-8614-0bf86301198a
+  出力: classifier_alter_gamma_Jun18.py
+
+8.  gammaだと一回実行後終了してるっぽいので対処(あとファイル命名が最悪だったので整理)
+  出力: classifier_Jun25-01.py
