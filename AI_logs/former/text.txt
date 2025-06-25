@@ -3,23 +3,27 @@
 1. keras導入のやつ(一応) - https://chatgpt.com/share/683668da-25d4-800d-b2cc-37e2008de2ec
 
 2. 「菓子を仕分ける」という条件のみ - https://chatgpt.com/share/6836683f-f984-800d-a7a3-a46072cc319e
-  出力: classifier_point.py
-        classifier_point_May28.py
+  出力:
+   classifier_point.py
+   classifier_point_May28.py
 
 3. 「青色LED検出で開始」という条件 - https://chatgpt.com/share/68366cb9-b5b4-800d-b34a-0657848e2042
-  出力: classifier_with_LED.py
-        classifier_blueLED.py
+  出力:
+   classifier_with_LED.py
+   classifier_blueLED.py
 
 4. 入力なしでの自動処理 - https://chatgpt.com/share/683f960c-0c78-800d-8d3c-543256bb09df
   出力: classifier_modified_Jun04.py
 
 5. 上記4個の出力コードを結合 - https://chatgpt.com/share/685b51ca-90ec-800d-9075-c80088ebff74
-  出力: classifier_alter_May28.py
-        classifier_alter.Jun04.py
+  出力:
+   classifier_alter_May28.py
+   classifier_alter.Jun04.py
 
 6. カメラ中心に近いやつから処理するように - https://chatgpt.com/share/68524c5e-cd24-800d-aa00-643e44807902
-  出力: classifier_alter_Jun18.py
-        classifier_alter_beta_Jun18.py
+  出力:
+   classifier_alter_Jun18.py
+   classifier_alter_beta_Jun18.py
 
 7. カメラウィンドウが重たいので対処 - https://chatgpt.com/share/685b51bb-f170-800d-8614-0bf86301198a
   出力: classifier_alter_gamma_Jun18.py
