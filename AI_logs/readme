@@ -28,5 +28,5 @@ AIモデルには前提としてルールブックとclassifier.py, dobotClassif
 7. カメラウィンドウが重たいので対処 - https://chatgpt.com/share/685b51bb-f170-800d-8614-0bf86301198a
   出力: classifier_alter_gamma_Jun18.py
 
-8.  gammaだと一回実行後終了してるっぽいので対処(あとファイル命名が最悪だったので整理)
+8.  gammaだと一回実行後終了してるっぽいので対処(あとファイル命名が最悪だったので整理) - https://chatgpt.com/share/685b5334-6e10-800d-a812-4848212e1a33
   出力: classifier_Jun25-01.py
